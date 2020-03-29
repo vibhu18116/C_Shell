@@ -11,5 +11,5 @@ To execute the code:
 1. Clone the repository.
 2. Navigate to the directory and open a terminal.
 3. Run `make`
-4. Run `./syscall`
+4. Run `./shell`
 5. Enjoy exploring the shell.
